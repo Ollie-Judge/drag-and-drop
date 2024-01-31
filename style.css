@@ -15,3 +15,7 @@
   width: 50%;
   cursor: move;
 }
+
+.draggableItem.currentlyDragging {
+  opacity: 0.5;
+}
